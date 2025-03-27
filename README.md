@@ -43,7 +43,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Formulários de Acesso</h1>
+        <h1>GERENCIAL HS</h1>
         <a href="https://forms.gle/rgvVTs1dqfEsujzHA" class="form-link" target="_blank">CADASTRO DE FOLGAS</a>
         <a href="https://forms.gle/Qp1yY1EAX1FLc7Wg9" class="form-link" target="_blank">TRANSFERÊNCIA ENTRE LOJAS</a>
     </div>
